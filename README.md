@@ -11,3 +11,4 @@ Use different charts and graphs to prepare the dashboard
 -Text Box
 -Matrix
 -
+Use the Power BI desktop to view the end report of Sales Report 
